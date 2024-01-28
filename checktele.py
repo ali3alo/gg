@@ -213,7 +213,7 @@ def gen_user(choice):
             username = ''.join(f)
         else:
             pass
-     if choice == "14":
+    if choice == "14":
         c = d = random.choices(a)
         x = random.choices(o)
         d = random.choices(e)
